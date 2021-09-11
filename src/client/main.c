@@ -6,16 +6,11 @@
 /*   By: bgenia <bgenia@student.21-school.ru>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/08 03:20:18 by bgenia            #+#    #+#             */
-/*   Updated: 2021/09/09 02:08:00 by bgenia           ###   ########.fr       */
+/*   Updated: 2021/09/11 19:07:27 by bgenia           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <signal.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <stdbool.h>
-#include <inttypes.h>
 
 #include <libft/io/printf.h>
 #include <libft/io/util/ansidefs.h>
